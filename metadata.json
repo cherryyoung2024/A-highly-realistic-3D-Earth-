@@ -1,0 +1,5 @@
+{
+  "name": "GaiaSphere - High-Fidelity 3D Earth",
+  "description": "A high-fidelity 3D Earth visualization using Three.js with satellite imagery, atmospheric effects, and Gemini-powered geographic insights.",
+  "requestFramePermissions": []
+}
